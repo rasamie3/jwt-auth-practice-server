@@ -35,7 +35,7 @@ JWT_SECRECT=yourSuperSecretKey
 3. **Run the server**
 
 ```bash
-node index.js
+node main.js
 ```
 
 The server will start on: `http://localhost:3000`
